@@ -1,0 +1,3 @@
+/Users/petrbrazdil/Temp/cppswift/Sources/cpplib/build/CMakeFiles/rebuild_cache.dir
+/Users/petrbrazdil/Temp/cppswift/Sources/cpplib/build/CMakeFiles/edit_cache.dir
+/Users/petrbrazdil/Temp/cppswift/Sources/cpplib/build/CMakeFiles/pcltest.dir
